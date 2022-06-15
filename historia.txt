@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nossa História</title>
+    <style>
+        body {
+            background-color: burlywood;
+        }
+    </style>
+    <style>
+        h1 {
+            color: rgb(248, 133, 133);
+            font-size: 40px;
+            background-color: rgb(2, 23, 43);
+        }
+    </style>
+</head>
+
+<body>
+    <!--Logo-->
+    <img src="./twice-logo.png" id="inicio" alt="" width="100px">
+    <h1>O melhor grupo de KPOP</h1>
+    <!--Naverbar-->
+    <ul>
+        <li> <a href="index.html">HOME</a></li>
+        <li> <a href="fanclub">FÃ CLUB</a></li>
+        <li> <a href="historia.html">HISTÓRIA</a></li>
+    </ul>
+    <!--Imagem principal-->
+    <img src="./twice image.png" alt="O melhor grupo">
+
+    <h2>Nossa História</h2>
+
+    <p>Twice é um grupo feminino de K-Pop gerenciado pela JYP Entertainment. O noneto foi formado em 2015 por meio do reality
+    show Sixteen, que selecionou as integrantes para debutar: Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung
+    e Tzuyu. O plano incial era que o grupo tivesse sete membros, mas após a final do programa, J. Y. Park, o fundador da
+    JYP, resolveu adicionar Tzuyu e Momo na formação final.
+    
+    O primeiro lançamento do grupo aconteceu em Outubro de 2015 com o EP The Story Begins e a música Like Ooh-Ahh. A
+    recepção inicial não foi muito boa, mas após cerca de um mês a música chegou a entrar no Top 10 de diversos charts
+    sul-coreanos. Em janeiro, o EP fez sua estreia no chart de Álbuns Globais da Billboard, marcando o início do sucesso
+    estrondoso do Twice.</p>
+
+    <!--Rodapé-->
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h5> <a href="#inicio">Volta ao inicio</a></h5>
+    <p>Todosos direitos reservados &copy; 2022</p>
+</body>
+
+</html>

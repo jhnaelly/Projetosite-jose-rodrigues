@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farofa do Twice</title>
+    <style>
+h1{
+    color: rgb(248, 133, 133);
+    font-size: 60px;
+    background-color: rgb(2, 23, 43);
+    }
+    </style>
+
+    <style>
+        body{
+            background-color: burlywood;
+        }
+    </style>
+
+    <style>
+        h2{
+            color:rgb(2, 23, 43,);
+        }
+    </style>
+    
+</head>
+
+<body>
+    <!--Logo-->
+    <img src="./twice-logo.png" id="inicio" alt="" width="100px">
+    <h1>O melhor grupo de KPOP</h1>
+    <!--Naverbar-->
+    <ul>
+        <li> <a href="index.html">HOME</a></li>
+        <li> <a href="fanclub.html">FÃ CLUB</a></li>
+        <li> <a href="historia.html">HISTÓRIA</a></li>
+    </ul>
+    <!--Imagem principal-->
+    <img src="./twice image.png" alt="O melhor grupo">
+
+    <!--História-->
+    <h2>Conheça e saiba tudo sobre o Twice</h2>
+    <img src="./R.png" alt="" width="400px">
+    <p style="width:68%">
+        Twice é um grupo feminino nipo-coreano formado pela JYP Entertainment em 2015. O grupo é composto de nove
+        integrantes:
+        Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung e Tzuyu. Twice foi formado no reality show Sixteen
+        e
+        estreou em 20 de outubro de 2015, com o extended play The Story Begins.
+    </p>
+    <a href="https://twice.jype.com/" target="_blank">Detalhes</a>
+    <!--Rodapé-->
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h5> <a href="#inicio">Volta ao inicio</a></h5>
+    <p>Todosos direitos reservados &copy; 2022</p>
+</body>
